@@ -84,8 +84,3 @@ Failed to decide for dan@example.com
 ADVANCE dan@example.com
 Hired dan@example.com
 ```
-
-#### Submission
-
-When you are done, please zip everything and send it to your point of contact.
-We will review your submission and get back to you if there's a good fit!
