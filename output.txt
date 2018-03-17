@@ -1,0 +1,6 @@
+DEFINE ManualReview BackgroundCheck DocumentSigning
+ManualReview 0 BackgroundCheck 0 DocumentSigning 0 Hired 0 Rejected 0
+CREATE howon@example.com
+ADVANCE howon@example.com
+Rejected howon@example.com
+ManualReview 0 BackgroundCheck 0 DocumentSigning 0 Hired 0 Rejected 1
